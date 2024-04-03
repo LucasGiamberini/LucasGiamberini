@@ -1,16 +1,20 @@
-### Hi there 👋
+### 
 
-<!--
-**LucasGiamberini/LucasGiamberini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
-Here are some ideas to get you started:
+👨‍💻Enthousiaste  futur développeur web actuellement en formation chez Elan Formation, je suis animé par la passion de créer des expériences en ligne innovantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Ma simplicité et ma jovialité se conjuguent avec mon engagement à perfectionner mes compétences techniques et à résoudre des défis complexes, tout en étant une personne accessible .
+
+📚Compétences :
+
+#HTML5
+#CSS3
+#PHP8
+#Javascript
+#Symfony7
+#RGPD
