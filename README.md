@@ -8,12 +8,13 @@
 
 👨‍💻Enthousiaste  futur développeur web actuellement en formation chez Elan Formation, je suis animé par la passion de créer des expériences en ligne innovantes.
 
- Ma simplicité et ma jovialité se conjuguent avec mon engagement à perfectionner mes compétences techniques et à résoudre des défis complexes, tout en étant une personne accessible .
-
+Passionné d'informatique , l'apprentissage et la maitrise de nouvelle technologie est ce qui m'eppanouie .
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasGiamberini&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasGiamberini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGiamberini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
 📚Compétences :
 
@@ -33,10 +34,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasGiamberini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGiamberini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 
 
